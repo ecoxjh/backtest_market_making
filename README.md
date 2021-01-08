@@ -1,2 +1,3 @@
 # backtest_market_making
- backtest;python
+本包基于qstrader修改至适用于高频交易的回测框架
+运行Croot即可
